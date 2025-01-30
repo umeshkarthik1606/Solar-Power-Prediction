@@ -79,7 +79,7 @@ In Week 2, I performed Exploratory Data Analysis (EDA) to explore and understand
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship.git
+   git clone https://github.com/umeshkarthik1606/Solar-Power-Prediction.git
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
